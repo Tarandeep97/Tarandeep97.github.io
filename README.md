@@ -1,4 +1,4 @@
-# Tarandeep97.github.io
+# Tarandeep Singh
 
 Hey there! I am Tarandeep Singh.
 
