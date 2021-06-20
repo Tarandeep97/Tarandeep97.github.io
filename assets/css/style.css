@@ -1,0 +1,31 @@
+.jumbotron{
+	margin-top:30px;
+	text-align: center;
+	height: 100vh;
+	color: white;
+}
+.jumbotron .container{
+	margin-top: 70px;
+}
+.jumbotron .container h1{
+	font-size: 80px;
+}
+.jumbotron .container hr{
+	margin-bottom: 50px;
+}
+.jumbotron .container p{
+	margin-top: 10px;
+}
+
+.container{
+	margin-top:30px;
+}
+
+.container .row .col-sm-6 .card{
+	margin-bottom: 10px;
+}
+
+.container .row .col-sm-6 .card .card-header .badge{
+	float: right;
+	margin-top: 2px;
+}
