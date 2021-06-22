@@ -5,7 +5,7 @@
 	color: white;
 }
 .jumbotron .container{
-	margin-top: 70px;
+	margin-top: 120px;
 }
 .jumbotron .container h1{
 	font-size: 80px;
@@ -29,3 +29,36 @@
 	float: right;
 	margin-top: 2px;
 }
+
+
+.skill{
+	text-align: center;
+	color: white;
+}
+
+.project h1{
+	text-align: center;
+	color: white;
+}
+
+.skill .row .border i:hover{
+	color: #B58900;
+}
+
+.skill .row .border i{
+	margin:20px;
+}
+
+.skill .row .border .icons{
+	font-size: 3.8rem;
+}
+
+.footer{
+	text-align: center;
+	color: white;
+}
+
+.footer .fas{
+	color: red;
+}
+
